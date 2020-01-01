@@ -1,0 +1,15 @@
+{
+    "criteria": {
+        "put_furnace": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "item": {
+                    "item":"minecraft:hopper"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "ashbin:2"
+    }
+}
