@@ -1,0 +1,1 @@
+execute store result block ~ 255 ~ Items[0].tag.AttributeModifiers[0].Amount double 1 run scoreboard players get @s dian
