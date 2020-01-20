@@ -1,0 +1,1 @@
+title @s[scores={bmdtime=-20}] title {"text":"你不在白名单内","color":"red"}
